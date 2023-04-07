@@ -6,9 +6,10 @@ My skills:
 
 - **C# - Experience mainly with CMD and WPF**
 - HTML, CSS + PHP (Mainly with PhpMyAdmin)
-- SAP - Basic ABAP, work with tables
+- SAP - Basic ABAP for work with tables
 - Basic networking - Routing, Subnetting, OSPF, Etherchannel, DHCP, ACL...
 - Linux CMD
+- Desktop PC assembly + component selection
 - Languages - Czech (Native), English (Communication, reading & writing...)
 
 Previous experience:
