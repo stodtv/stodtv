@@ -11,6 +11,7 @@ My skills:
 - Basic networking - Routing, Subnetting, OSPF, Etherchannel, DHCP, ACL...
 - Linux CMD
 - Desktop PC assembly + component selection
+- Word, Excel, PowerPoints, Teams etc.
 - Languages - Czech (Native), English (Communication, reading & writing...)
 
 Previous experience:
