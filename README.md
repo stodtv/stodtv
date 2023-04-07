@@ -16,4 +16,4 @@ Previous experience:
 
 - Erasmus - 3 weeks of work for a Cypriot company - Website code maintenence - HTML, CSS, WordPress + research, writing and presenting my work to english speaking audience
 
-At the date of writing (7.4.23) i am attending the final year of Information Technology at POJFM in Frýdek-Místek. By now i have also been accepted to an university which i hope to start in September this year.
+At the date of writing (7. Apr 23) i am attending the final year of Information Technology at POJFM in Frýdek-Místek. By now i have also been accepted to an university which i hope to start in September this year.
